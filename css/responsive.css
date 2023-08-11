@@ -1,0 +1,328 @@
+@media only screen and (max-width: 1399px) {
+    .secation-7 .sec_7_bg {
+        height: 500px;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .navbar-brand img {
+        width: 200px;
+        margin-bottom: -12px;
+    }
+
+    .banner-sec .banner-title h2 {
+        font-size: 39px;
+    }
+
+    .banner_bg {
+        height: 650px;
+    }
+
+    .Enterprise_box .platfrom_box h4 {
+        font-size: 22px;
+    }
+
+
+    .Build_Rubikode_text .brt_left h5 {
+        font-size: 16px;
+        margin-right: 10px;
+    }
+
+    .Build_Rubikode_text .brt_left img {
+        width: 39%;
+    }
+
+    .secation-7 .sec_7_bg {
+        height: 400px;
+    }
+
+    .hexagon_facets {
+        width: 100%;
+        height: 152px;
+    }
+
+    .facets_div_m_top {
+        margin-top: 96px;
+    }
+
+    .facets_div_m_bottom {
+        margin-bottom: 96px !important;
+    }
+
+    .differe_box li {
+        width: 124px;
+        height: 124px;
+    }
+    .differe_box ul li p{
+        font-size: 14px;
+        line-height: 15px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+
+    footer .footer_tborder {
+        height: 90%;
+        margin-bottom: 20px;
+    }
+
+    footer .footer_tborder {
+        padding: 30px 0 30px 0px;
+    }
+
+    footer .footer_tborder_0 {
+        margin-top: 30px;
+    }
+
+    header .social-icon {
+        display: none;
+    }
+
+    .banner_bg {
+        height: 500px;
+    }
+
+    .banner-title {
+        margin-top: 0px;
+    }
+
+    .sec_title {
+        margin-bottom: 30px;
+    }
+
+    .secation-2 .se_two {
+        margin-bottom: 30px;
+    }
+
+    .Build_Rubikode_text .brt_left h5 {
+        font-size: 14px;
+        margin-right: 6px;
+        font-weight: 600;
+        line-height: normal;
+    }
+
+    .brt_left:nth-child(2) {
+        margin: 15px 0;
+    }
+
+    .secation-7 .sec_7_bg {
+        height: 330px;
+    }
+
+    .secation-4 .rows {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .hexagon_facets {
+        width: 100%;
+        height: 183px;
+    }
+
+    .facets_div_m_top {
+        margin-top: 70px;
+    }
+
+    .facets_div_m_bottom {
+        margin-bottom: 70px !important;
+    }
+    .Differentiators_text::after {
+    right: 50%;
+    top: auto;
+    bottom: 50px;
+    transform: rotate(90deg);
+}
+}
+
+@media only screen and (max-width: 767px) {
+    .secation-1 {
+        padding: 50px 0;
+    }
+
+    .secation-2 {
+        padding: 50px 0;
+    }
+
+    .sec_title h2 {
+        font-size: 28px;
+    }
+
+    .secation-1 .sec_title h2 {
+        font-size: 28px;
+    }
+
+    .secation-2 .serverless {
+        margin-bottom: 30px;
+    }
+
+    .Build_Rubikode_text .one {
+        transform: translate(0%, 80%);
+    }
+
+    .Build_Rubikode_text .two {
+        transform: translate(0%, 35%);
+    }
+
+    .Build_Rubikode_text .three {
+        transform: translate(0%, 80%);
+    }
+
+    .Build_Rubikode_text .brt_left img {
+        width: 60px;
+    }
+
+
+    .Build_Rubikode_text .four {
+        transform: translate(0%, -70%);
+    }
+
+    .section-4 {
+        padding: 50px 0;
+    }
+
+    .Build_Rubikode_text {
+        display: flex;
+    }
+
+    .Build_Rubikode_text .brt_left {
+        flex-direction: column;
+    }
+
+    .Build_Rubikode_text .brt_left h5 {
+        text-align: center !important;
+    }
+
+    .Build_Rubikode_text .brt_right h5 {
+        margin: 0 !important;
+    }
+
+    .Build_Rubikode_text .five {
+        transform: translate(0%, -40%);
+    }
+
+    .Build_Rubikode_text .six {
+        transform: translate(0%, -70%);
+    }
+
+    .chat-box {
+        width: 270px;
+        height: 370px;
+    }
+
+    .secation-6 {
+        padding: 50px 0;
+    }
+
+    .btn_get a {
+        padding: 10px 22px !important;
+        margin-right: 10px !important;
+    }
+
+    .sec_6_text .sec_title h2 {
+        font-size: 28px;
+    }
+
+    .sec_7_text h2 {
+        font-size: 28px;
+    }
+
+    .sec_7_text p {
+        font-size: 16px;
+    }
+
+    .sec_6_text p {
+        font-size: 16px;
+        color: #383838;
+    }
+
+    .secation-3 {
+        padding: 50px 0;
+    }
+
+    .secation-4 {
+        padding: 50px 0;
+    }
+
+    .secation-5 {
+        padding: 50px 0;
+    }
+
+    .footer_logo img {
+        width: 80% !important;
+    }
+
+    .section-5 {
+        background-color: #eef9fd;
+        padding: 50px 0;
+    }
+
+    footer {
+        padding: 50px 0 0 0;
+    }
+
+}
+
+
+@media only screen and (max-width: 576px) {
+    .banner-sec .banner-title h2 {
+        font-size: 28px;
+        margin-bottom: 12px;
+    }
+
+    .banner-sec .banner-title h5 {
+        font-size: 18px;
+    }
+
+    .banner-sec .banner-title a {
+        padding: 10px 22px;
+        margin-right: 10px;
+    }
+
+    .banner_bg {
+        height: 360px;
+    }
+
+    .chat-box {
+        width: 240px;
+        height: 360px;
+    }
+    .differe_box li {
+        width: 84px;
+        height: 114px;
+    }
+    .sec_5_cubebox .cube .two {
+        transform: rotate3d(22, 78, -18, 299deg) translate(-58%, 16%);
+        width: 360px;
+    }
+    .sec_5_cubebox .cube .three {
+        transform: rotate3d(16, 15, -8, 189deg) translate(-65%, 6%);
+        width: 450px;
+    }
+    .sec_5_cubebox .cube .one {
+        transform: rotate3d(-67, -115, 165, -131deg) translate(-47%, -59%);
+        width: 460px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .facets_div {
+        width: 138px;
+    }
+
+    .hexagon_facets {
+        height: 124px;
+    }
+
+    .facets_div_m_bottom {
+        margin-bottom: 100px !important;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    header {
+        background-color: #080c1b9e;
+        position: absolute;
+        top: 0;
+        z-index: 999;
+    }
+}
